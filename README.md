@@ -66,14 +66,23 @@ Top revenue-generating states:
 
 ---
 
+## 📊 Dashboard Preview
+Below is the interactive Excel dashboard used for analysis:
+
+![Vrinda Store Sales Dashboard](Dashboard_Screenshot.png)
+
+---
+
 ## 📂 Project Structure
-Vrinda-Store-Annual-Report/
+
+```text
+vrinda-store-sales-analysis/
 │
 ├── Vrinda_Store_Annual_Report.xlsx
 ├── Dashboard_Screenshot.png
 └── README.md
 
-
+```
 ---
 
 ## 📌 Conclusion
@@ -96,4 +105,5 @@ The dashboard can be used for **business decision-making, performance tracking, 
 
 ## 👤 Author
 **Arijeet**  
-Data Analysis using Excel  
+Data Analyst | Excel | Data Visualization  
+
